@@ -1,5 +1,4 @@
-package multithreading;
-
+package multithreading.bankaccount;
 public class Test {
     public static void main(String[] args) {
         BankAccount sbi= new BankAccount();

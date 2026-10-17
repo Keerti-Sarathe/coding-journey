@@ -1,4 +1,5 @@
-package multithreading;
+package multithreading.bankaccount;
+
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
